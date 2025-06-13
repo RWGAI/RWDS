@@ -52,9 +52,9 @@ huggingface-cli download RWGAI/RWDS --repo-type dataset
 
 **Download MMDetection Framework:**
 Install MMDetection from the official repository by following the [official MMDetection installation guide](https://mmdetection.readthedocs.io/en/latest/get_started.html).
-
-> **Note:** *We may release our customized version of MMDetection optimized for this benchmark in the future.*
-
+<!---
+\> **Note:** *We may release our customized version of MMDetection optimized for this benchmark in the future.*
+-->
 ### 2️⃣ Directory Structure Setup
 ```bash
 # Recommended directory structure:
@@ -82,11 +82,13 @@ cp -r RWDS_mmdetection/configs/* mmdetection/configs/
 
 ## 🔬 Experiments
 
-For detailed training and evaluation instructions, see the respective README files:
+<!--- For detailed training and evaluation instructions, see the respective README files:
 
 - 🌦️ [RWDS-CZ/README.md](RWDS-CZ/README.md)
 - 🌊 [RWDS-FR/README.md](RWDS-FR/README.md)
-- 🌀 [RWDS-HE/README.md](RWDS-HE/README.md)
+- 🌀 [RWDS-HE/README.md](RWDS-HE/README.md) -->
+
+> **Stay-tuned:** *We willl release detailed training and evaluation instructions which we used in RWDS soon.*
 
 ## 📝 Citation
 
