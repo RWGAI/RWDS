@@ -38,12 +38,12 @@ Object detectors have achieved remarkable performance in many applications; howe
 pip install huggingface_hub
 huggingface-cli download RWGAI/RWDS --repo-type dataset
 ```
-
+<!---
 ### 🗂️ Zenodo Archive
 [![DOI](https://zenodo.org/badge/DOI/[PLACEHOLDER_DOI].svg)](https://doi.org/[PLACEHOLDER_DOI])
 
 **Direct download link:** `[PLACEHOLDER - INSERT ZENODO LINK HERE]`
-
+-->
 ## 📁 Installation and Setup
 
 ### 1️⃣ Framework Requirements
