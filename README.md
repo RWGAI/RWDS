@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://qcriscairw-bcf4f2eec0-endpoint.azureedge.net/blobqcriscairwbcf4f2eec0/wp-content/uploads/2025/03/new_logo_v3_hori.png" alt="RWDS Logo" width="800"/>
+  <img src="https://qcriscairw-bcf4f2eec0-endpoint.azureedge.net/blobqcriscairwbcf4f2eec0/wp-content/uploads/2025/03/new_logo_v3_hori.png" alt="RWDS Logo" width="1200"/>
 </div>
 
 <div align="center">
