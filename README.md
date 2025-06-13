@@ -13,7 +13,7 @@
   
 📄 [**CVPR 2025**](https://openaccess.thecvf.com/content/CVPR2025/html/Al-Emadi_Benchmarking_Object_Detectors_under_Real-World_Distribution_Shifts_in_Satellite_Imagery_CVPR_2025_paper.html) | 🔗 [**Paper**](https://arxiv.org/abs/2503.19202) | 🎥 [**Video**](https://www.youtube.com/watch?v=_sZjkwVUSow) | 📋 [**Poster**](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202025/32546.png?t=1748807138.4285972) | 🌐 [**Project Page**](https://rwgai.com/rwds/) | 💻 [**Code**](#)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<!--- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)-->
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 
